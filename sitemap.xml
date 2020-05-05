@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nealjoos.be/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nealjoos.be/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nealjoos.be/projecten/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nealjoos.be/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nealjoos.be/tags/</loc>
+  </url>
+  
+</urlset>
