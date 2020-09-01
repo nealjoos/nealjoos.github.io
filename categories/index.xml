@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Neal Joos</title>
-    <link>https://site.by.nealjoos.be/categories/</link>
+    <link>https://nealjoos.be/categories/</link>
     <description>Recent content in Categories on Neal Joos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     
-	<atom:link href="https://site.by.nealjoos.be/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nealjoos.be/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
